@@ -1,5 +1,24 @@
 # Tennis
 <html> 
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .header {
+      text-align: center;
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    .content {
+      text-align: justify;
+      margin-bottom: 20px;
+    }
+    .image {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
 
 <div class="content">
     <h2>What is Tennis?</h2>
@@ -27,5 +46,7 @@ Being on Whitney's tennis team for three years has been a fantastic experience t
 <img width="627" alt="Screen Shot 2023-09-27 at 8 47 41 PM" src="https://github.com/aishreyai/Tennis-/assets/145709072/da52b4ec-2a45-45b9-aa97-60547f404190">
 <br> 
 Our first game against La Serna High School (11-7) 
+
+Victory!! 
 
 
