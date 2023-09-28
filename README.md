@@ -20,7 +20,7 @@ Being on Whitney's tennis team for three years has been a fantastic experience t
     <img width="935" alt="Screen Shot 2023-09-27 at 9 42 12 PM" src="https://github.com/aishreyai/Tennis-/assets/145709072/6cc1b85a-8af5-403d-adc3-cceb5a869484"> 
 </body>
 <br> 
-<body> team bonding (9/16/23)</body>
+<body> team bonding (9/16/23) 
 
 
 </body>
